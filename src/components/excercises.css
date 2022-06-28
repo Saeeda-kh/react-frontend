@@ -1,0 +1,73 @@
+.excercisesTable{
+    padding-left: 60px;
+    border: aliceblue;
+    margin-left: 100px;
+}
+
+.excercisesTable1{
+    margin-left: 240px;
+    width: 1000px;
+
+}
+h1{
+    margin-left: 300px;
+    text-decoration: underline;
+    color: dimgray;
+}
+
+ .button{
+    margin-left: 500px;
+    border: navajowhite;
+    background: no-repeat;
+    font-size: larger;
+    font-weight: 500;
+    color: darkgrey;
+}
+.col{
+    /* padding: 20px; */
+    width: 200px;
+    padding-left: 20px;
+}
+.col-head{
+    width: 200px;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    margin-left: 200px;
+}
+
+label{
+    font-size: large;
+}
+.list{
+    width: 800px;
+    margin-left: 200px;
+}
+.list-item{
+    display: flex;
+    justify-content: space-between;
+}
+.buttons-div{
+    display: flex;
+    justify-content: space-between;
+    width: 280px;
+
+}
+
+.names-div{
+    font-size: larger;
+    color: cornflowerblue;
+    cursor: pointer;
+}
+.table{
+    width: 750px;
+    margin-left: -80px;
+}
+.table-head{
+    /* width: 750px; */
+    margin-left: 80px;
+}
+
+
